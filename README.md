@@ -2,15 +2,17 @@
 
 ## Menjalankan Aplikasi
 
-    download *repository* via git
-    ```console
-    git clone https://github.com/ADDFa/contact-app-cli.git
-    ```
+download _repository_ via git
 
-    jalankan menggunakan node js
-    ```console
-    node app.js
-    ```
+```console
+git clone https://github.com/ADDFa/contact-app-cli.git
+```
+
+jalankan menggunakan node js
+
+```console
+node app.js
+```
 
 ## Deskripsi
 
