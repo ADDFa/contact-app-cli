@@ -1,5 +1,11 @@
 # Aplikasi Pengelolaan Kontak (CLI)
 
+## Menjalankan Aplikasi
+
+    ```bash
+    node app.js
+    ```
+
 ## Deskripsi
 
 Aplikasi pengelolaan kontak sederhana, berbasis _Comand Line Interface (CLI)_ yang dibuat menggunakan node js, dengan mengimplementasikan read-file dan write-file dari _core module_ yang terdapat didalam node js
